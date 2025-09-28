@@ -4,7 +4,7 @@
 
 - **WeOut (SMART Project)**: A React Native mobile social network app for events featuring user profiles, interactive maps, live KPIs, and social features to enhance event discovery and engagement. [View Project](https://github.com/Luyansi3/WeOut)
 
-- **Software Project Compiler**: A compiler for an object-oriented language using C++ and ANTLR4, generating ARM assembly code and executing programs on a Raspberry Pi 3. Managed a team of five students with Agile Scrum methodology. [View Project](https://github.com/Samsam19191/C-Compiler)
+- **Software Project Compiler**: A compiler for an object-oriented language using C++ and ANTLR4, generating ARM assembly code and executing programs on a Raspberry Pi 3.[View Project](https://github.com/Samsam19191/C-Compiler)
 
 - **AirWatcher - Air Quality Monitoring and Analysis Tool**: A C++ tool for monitoring and analyzing air quality. [View Project](https://github.com/riaddalaoui/AirWatcher-Software-Engineering-SchoolProject)
 
