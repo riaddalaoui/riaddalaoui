@@ -1,4 +1,4 @@
-<h1>Hi, I'm Riad! <br/><a href="https://github.com/riaddalaoui"> A Computer Science student at INSA Lyon</a> <a href="https://www.linkedin.com/in/riad-dalaoui/"></a></h1>
+<h1>Hi, I'm Riad! <br/><a href="https://github.com/riaddalaoui"> A Software Engineer</a> <a href="https://www.linkedin.com/in/riad-dalaoui/"></a></h1>
 
 <h2>📂 My Projects:</h2>
 
