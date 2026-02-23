@@ -1,6 +1,6 @@
 <h1>Hi, I'm Riad! <br/><a href="https://github.com/riaddalaoui"> A Software Engineer</a> <a href="https://www.linkedin.com/in/riad-dalaoui/"></a></h1>
 
-<h2>📂 My Projects:</h2>
+<h2>📂 Academic & Personal Projects</h2>
 
 - **WeOut (SMART Project)**: A React Native mobile social network app for events featuring user profiles, interactive maps, live KPIs, and social features to enhance event discovery and engagement. [View Project](https://github.com/Luyansi3/WeOut)
 
